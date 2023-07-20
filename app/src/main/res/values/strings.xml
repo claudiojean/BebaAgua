@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Beba Água</string>
+    <string name="nome">Informe o seu nome:</string>
+    <string name="peso">Informe o seu peso:</string>
+    <string name="hAcorda">Informe a hora que acorda:</string>
+    <string name="hDorme">Informe a hora que dorme:</string>
+    <string name="save">Concluir</string>
+    <string name="hIncorreta">Informe horários corretos</string>
+</resources>
